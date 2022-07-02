@@ -124,3 +124,27 @@ h2 {
     display: block;
 }
 
+/*Portfolio*/
+
+.portfolio {
+    background-color: lightblue;
+}
+
+.box-image {
+    margin: 15px;
+}
+  
+  .image {
+    width: 260px;
+    height: 260px;
+}
+  
+  img {
+    width: 260px;
+    height: 260px;
+}
+  
+.text {
+    background: white;
+    height: 80px;
+}
