@@ -24,7 +24,7 @@
 }
 
 section:first-of-type {
-    background-image: url(https://i.postimg.cc/nVksZ8NN/pexels-chris-lee-12456043.jpg);
+    background-image: url(https://i.postimg.cc/QNqH88QD/pexels-lumn-322207.jpg);
     background-size: cover;
     height: 500px;
     width: 100%;
@@ -182,5 +182,25 @@ h2 {
 
 .footer ul li a {
     font-size: 0px;
+}
+
+/*Button*/
+
+.btn-golden {
+    border: none;
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    position: relative;
+    margin: 0;
+}
+
+.btn-one {
+    border-color: gold;
+    color: white;
+    background: gold;
+    display: flex;
+    width: 250px;
+    justify-content: center;
 }
 
